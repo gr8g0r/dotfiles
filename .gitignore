@@ -1,3 +1,19 @@
+# Editor backup files
+*~
+*.bak
+*.backup
+# Vim files
+*.swp
+*.swo
+*.un~
+*.un~
+*.un~
+# Other common unwanted files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+# archLinuxPackages
 *.tar
 *.tar.*
 *.jar
@@ -9,6 +25,5 @@
 *.log
 *.log.*
 *.sig
-
 pkg/
 src/
