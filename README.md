@@ -8,8 +8,6 @@ This repository contains my personal dotfiles and scripts for managing developme
 
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
-- [Features](#features)
-- [Getting Started](#getting-started)
 - [GPG Encrypted Environment Variables](#gpg-encrypted-environment-variables)
   - [Quick Start](scripts/gpg/README.md)
   - [Scripts](scripts/)
