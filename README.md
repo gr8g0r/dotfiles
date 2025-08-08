@@ -10,8 +10,8 @@ This repository contains my personal dotfiles and scripts for managing developme
 - [Directory Structure](#directory-structure)
 - [GPG Encrypted Environment Variables](#gpg-encrypted-environment-variables)
   - [Quick Start](scripts/gpg/README.md)
-  - [Scripts](scripts/)
-- [GPG Key Transfer Guide](scripts/gpg/GPG_TRANSFER_GUIDE.md)
+  - [GPG Key Transfer Guide](scripts/gpg/GPG_TRANSFER_GUIDE.md)
+- [Scripts](scripts/)
 - [License](./LICENSE)
 
 ---
