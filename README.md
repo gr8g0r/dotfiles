@@ -11,13 +11,10 @@ This repository contains my personal dotfiles and scripts for managing developme
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [GPG Encrypted Environment Variables](#gpg-encrypted-environment-variables)
-  - [Quick Start](#quick-start)
-  - [Scripts](#scripts)
-  - [Security Notes](#security-notes)
-  - [Troubleshooting](#troubleshooting)
-- [GPG Key Transfer Guide](#gpg-key-transfer-guide)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Quick Start](scripts/gpg/README.md)
+  - [Scripts](scripts/)
+- [GPG Key Transfer Guide](scripts/gpg/GPG_TRANSFER_GUIDE.md)
+- [License](./LICENSE)
 
 ---
 
@@ -45,3 +42,4 @@ This repository provides:
         ├── setup_encrypted_secrets.sh
         └── transfer_gpg_key.sh
 ```
+
