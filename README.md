@@ -1,5 +1,4 @@
-# dotfiles
-# gr8g0r/dotfiles
+# gricas/dotfiles
 
 This repository contains my personal dotfiles and scripts for managing development environments, secrets, and GPG keys, with a focus on automation, security, and portability—especially for Raspberry Pi and Linux systems.
 
